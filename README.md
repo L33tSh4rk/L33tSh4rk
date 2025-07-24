@@ -13,11 +13,8 @@
     <a href="https://www.linkedin.com/in/l3s4/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:l33tsh4rk@gmail.com" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/l33tsh4rk/" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="mailto:contact.l33tsh4rk@protonmail.com" target="_blank">
+      <img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8967C8?style=for-the-badge&logo=protonmail&logoColor=white" />
     </a>
 </p>
 
