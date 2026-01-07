@@ -16,12 +16,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
-            
+          
           # Settings
           user: L33tSh4rk
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           config_display: large
+
+          # INTRODUCTION
+          plugin_introduction: yes
           
           # ISOCALENDAR
           plugin_isocalendar: yes
@@ -36,6 +39,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
 
+          # FOLLOWUP
           plugin_followup: yes
           plugin_followup_sections: closed
           plugin_followup_indepth: yes
