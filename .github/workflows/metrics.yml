@@ -15,14 +15,18 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          template: terminal
+          extras_css: |
+            .header { font-weight: bold; color: #00ff00 !important; }
+            .field { color: #00ff00 !important; fill: #00ff00 !important; }
+            svg { background-color: #050505 !important; border-radius: 4px; }
+            .calendar .contribution { fill: #00ff00 !important; opacity: 0.8; }
+            
           # Settings
           user: L33tSh4rk
-          template: terminal
           base: header, activity, community, metadata
           config_timezone: America/Sao_Paulo
-          
-          # Visual
-          config_display: large
+          config_display: regular
           
           # ISOCALENDAR
           plugin_isocalendar: yes
