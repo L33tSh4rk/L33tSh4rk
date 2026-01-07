@@ -16,17 +16,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
-          extras_css: |
-            svg { background-color: #1a1b26 !important; border-radius: 4px; }
-            .header { color: #7aa2f7 !important; }
-            .field { color: #c0caf5 !important; fill: #c0caf5 !important; }
-            .calendar .contribution { fill: #9ece6a !important; }
             
           # Settings
           user: L33tSh4rk
-          base: header, activity, community, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          config_display: regular
+          config_display: large
           
           # ISOCALENDAR
           plugin_isocalendar: yes
@@ -43,6 +38,7 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: closed
+          plugin_followup_indepth: yes
 
           # Privacy
           committer_token: ${{ secrets.METRICS_TOKEN }}
