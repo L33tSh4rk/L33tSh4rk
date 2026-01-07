@@ -15,12 +15,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          template: terminal
+          template: classic
           extras_css: |
-            .header { font-weight: bold; color: #00ff00 !important; }
-            .field { color: #00ff00 !important; fill: #00ff00 !important; }
-            svg { background-color: #050505 !important; border-radius: 4px; }
-            .calendar .contribution { fill: #00ff00 !important; opacity: 0.8; }
+            svg { background-color: #1a1b26 !important; border-radius: 4px; }
+            .header { color: #7aa2f7 !important; }
+            .field { color: #c0caf5 !important; fill: #c0caf5 !important; }
+            .calendar .contribution { fill: #9ece6a !important; }
             
           # Settings
           user: L33tSh4rk
