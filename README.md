@@ -1,89 +1,207 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=AD07F7&multiline=true&repeat=false&width=435&lines=Welcome%2C+I'm+L33tSh4rk!)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2500&color=4BF70E&repeat=false&width=435&lines=Hi+There%2C+I'm+L33tSh4rk.)](https://git.io/typing-svg)
 
-<p>
-  📌 From São Paulo, Brazil | Currently studying at the Federal University of Technology - Paraná (UTFPR). <br>
-  👤 I'm a tech enthusiast with a broad curiosity, but my passion and professional focus lie in Cybersecurity.<br> 
-  💡 The projects here reflect part of my journey and growing expertise in the field.<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=2000&pause=1800&color=F7F7F7&multiline=true&repeat=false&width=810&lines=Computer+Science+Undergraduate+at+Federal+University+of+Technology+of+Paran%C3%A1+(UTFPR);Security+Researcher+with+professional+focus+in+Offensive+Security)](https://git.io/typing-svg)
+
+---
+<div>
+  <p align="center">Contacts:<br>
+      <a href="https://www.linkedin.com/in/l33tsh4rk/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+      </a>
+      <a href="mailto:contact.l33tsh4rk@protonmail.com" target="_blank">
+        <img alt="Mail" src="https://img.shields.io/badge/Mail-8967C8?style=for-the-badge&logo=protonmail&logoColor=white" />
+      </a>
   </p>
+</div>
 
-<h3 align="center"> 📬 Find me</h3><br>
+<br>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/l3s4/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:contact.l33tsh4rk@protonmail.com" target="_blank">
-      <img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8967C8?style=for-the-badge&logo=protonmail&logoColor=white" />
-    </a>
-</p>
-
----
-
-<h3 align="center">📊 Github Analytics</h3><br>
-
-
-<div align="center">
-    <img
-        alt="L33tSh4rk's stats on GitHub"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=L33tSh4rk&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&custom_title=L33tSh4rk's%20Github%20Stats"
-    />
-    <img
-        alt="Most used languages"
-        height="195"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=L33tSh4rk&hide=makefile&layout=donut&theme=midnight-purple"
-    />
+  # Activity Log
+<div align="left">
+  <img src="https://github.com/L33tSh4rk/L33tSh4rk/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 
-<h2>💻 Programming Languages</h2><br>
-<p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<br>
 
+  # Languages
 
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+          <br>Python
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+          <br>JavaScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+          <br>TypeScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+          <br>C
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="c++" width="48" height="48" />
+          <br>C++
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+          <br>HTML5
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+          <br>CSS
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
+          <br> Bash
+      </td>
+    </tr>
+    
+   
+  </table>
+</div>
 
+# Technologies
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="48" height="48" />
+          <br>Github
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+          <br>Git
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+          <br>WordPress
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+          <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" alt="docker"/>
+          <br>Docker
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian" />
+          <br>Obsidian
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt" />
+          <br>Qt
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+          <br>Figma
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+          <br>SQLite
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+          <br>vscode
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+          <br>MySQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://cdn.simpleicons.org/virtualbox/2F61B4" width="48" height="48" alt="VirtualBox" />
+          <br>VirtualBox
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
+          <br>LaTeX
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+          <br>Linux
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
+          <br>Vim
+      </td>
+    </tr>
+  </table>
+</div>
+
+# Hacking Tools
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/metasploit/ED2224" width="40" height="40" alt="Metasploit" title="Metasploit"/>
+        <br>Metasploit
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40" height="40" alt="Wireshark" title="Wireshark"/>
+        <br>Wireshark
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/burpsuite/F26522" width="40" height="40" alt="Burp Suite" title="Burp Suite"/>
+        <br>Burp Suite
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/hashcat/FFFFFF" width="40" height="40" alt="Hashcat" title="Hashcat"/>
+        <br>Hashcat
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/rss/15E0ED" width="40" height="40" alt="Aircrack-ng" title="Aircrack-ng (Illustrative icon)"/>
+        <br>Aircrack-ng
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/apachecassandra/FFFFFF" width="40" height="40" alt="Nmap" title="Nmap (Illustrative icon)"/>
+        <br>Nmap
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/dragonframe/25D366" width="40" height="40" alt="Hydra" title="Hydra (Illustrative icon)"/>
+        <br>Hydra
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Netcat" title="Netcat (Illustrative icon)"/>
+        <br>Netcat
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/redhat/416271" width="40" height="40" alt="John the Ripper" title="John the Ripper (Illustrative icon)"/>
+        <br>John the Ripper
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/asana/C00000" width="40" height="40" alt="Shodan" title="Shodan (Illustrative icon)"/>
+        <br>Shodan
+    </td>
+  </tr>
+  </table>
+</div>
+
+---
 
 <div>
-    <h2>🧠 Technical Skills</h2>
-    <p align="left">
-      <strong>Web Development</strong><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </p>
-    <p align="left">
-      <strong>Hacking Tools</strong><br>
-        <img src="https://img.shields.io/badge/Nmap-3F3F3F?style=for-the-badge&logo=nmap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-        <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white" />
-        <img src="https://img.shields.io/badge/Metasploit-D9292C?style=for-the-badge&logo=metasploit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hydra&logoColor=white" />
-        <img src="https://img.shields.io/badge/Aircrack--ng-00AEEF?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hashcat-8B0000?style=for-the-badge&logo=hashcat&logoColor=white" />
-        <img src="https://img.shields.io/badge/John%20the%20Ripper-black?style=for-the-badge&logo=gnubash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netcat-E69A0E?style=for-the-badge&logo=powershell&logoColor=white" />
-    </p>
-    <p align="left">
-      <strong>Databases</strong><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </p>
-    <p align="left">
-      <strong>DevOps and Virtualization</strong><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-    </p>
-    <p align="left">
-      <strong>Operating Systems</strong><br>
-        <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    </p>
-    
----
+  <details>
+    <summary>Operating Systems</summary>
+      <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali" title="Kali"/>
+      <img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" height="40" alt="Parrot" title="Parrot"/>
+      <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" title="Debian"/>
+      <img src="https://cdn.simpleicons.org/kdeneon/3DC08D" height="40" alt="KDE Neon" title="KDE Neon"/>
+      <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" title="Windows"/>
+      <img src="https://cdn.simpleicons.org/android/34A853" height="40" alt="Android" title="Android"/> 
+  </details>
 </div>
